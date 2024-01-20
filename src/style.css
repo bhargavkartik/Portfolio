@@ -581,6 +581,15 @@ button:focus {
   line-height: 1.6 !important;
 }
 
+.tech-description {
+  height: 100% !important;
+  font-size: 0.2em !important;
+  opacity: 1;
+  font-weight: 500 !important;
+  padding-top: 3px !important;
+  color: rgba(255, 255, 255, 1) !important;
+}
+
 .quote-card-view {
   border: none !important;
   color: white !important;
